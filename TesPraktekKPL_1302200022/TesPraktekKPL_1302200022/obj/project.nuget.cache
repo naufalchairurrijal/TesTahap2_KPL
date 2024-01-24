@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "p1uNhaBul/rF3B0c0cihCn1mGVJt6x9zyiQPVfeUg6z3B360oy9mZaIpr7GglQ5/FEJ4Cv7I2U2ukNa6v6+dTQ==",
+  "success": true,
+  "projectFilePath": "D:\\Telkom\\Persiapan Asprak\\TesAsprakTahap2KPL_1302200022\\TesPraktekKPL_1302200022\\TesPraktekKPL_1302200022\\TesPraktekKPL_1302200022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
